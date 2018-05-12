@@ -1,0 +1,30 @@
+_repo: Manual-of-American-Grape-Growing_29659
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hedrick, U. P.
+    alias: Hedrick, Ulysses Prentiss
+    birthdate: 1870
+    deathdate: 1951
+    gutenberg_agent_id: '34063'
+    url: http://www.gutenberg.org/2009/agents/34063
+    wikipedia: http://en.wikipedia.org/wiki/Ulysses_Prentiss_Hedrick
+description: ''
+gutenberg_issued: '2009-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29659'
+  lccn: '19011374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Viticulture -- United States'
+- !lcsh 'Grapes -- Varieties -- United States'
+title: Manual of American Grape-Growing
+url: http://www.gutenberg.org/ebooks/29659
